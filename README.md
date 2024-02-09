@@ -27,9 +27,6 @@
   <a href="https://twitter.com/tosmartak">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.datacamp.com/profile/tosmartak">
-    <img src="https://img.shields.io/badge/Datacamp-black?style=for-the-badge&logo=datacamp&logoColor=green" alt="Datacamp Badge"/>
-  </a>
   <a href="https://www.kaggle.com/tosinhakingbemisilu">
     <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
   </a><br>
