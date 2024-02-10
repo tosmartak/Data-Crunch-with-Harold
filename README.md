@@ -33,6 +33,11 @@
   <br>
 </div>
 
+## MY RECOMMENDED SITES TO LEVEL UP YOUR SKILLS
+- [Pluralsight (Save up to 50% on individual plans)](https://bit.ly/pluralsight-2024)
+- [DataCamp](https://bit.ly/datacamp2024)
+- [Udacity (Use coupon FEB40 with 40% off your first month)](https://bit.ly/Udacity-40)
+
 ## Topics
 ### Data Visualization
 - [Enhancing Correlation Matrix Heatmap Plots with P-values in Python](https://github.com/tosmartak/Data-Crunch-with-Harold/blob/main/Data%20Visualization/Enhancing_correlation_matrix_with_pvalues.ipynb)
