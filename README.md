@@ -39,6 +39,7 @@
 - [Udacity (Use coupon FEB40 with 40% off your first month)](https://bit.ly/Udacity-40)
 
 ## Topics
+### Data Cleaning
 ### Data Visualization
 - [Enhancing Correlation Matrix Heatmap Plots with P-values in Python](https://github.com/tosmartak/Data-Crunch-with-Harold/blob/main/Data%20Visualization/Enhancing_correlation_matrix_with_pvalues.ipynb)
 ### Inference
