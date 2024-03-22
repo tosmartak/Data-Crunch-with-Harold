@@ -33,7 +33,7 @@
   <br>
 </div>
 
-## My recommended platform to level up your skills
+## Recommended platform to level up your skills
 - [Pluralsight (Save up to 50% on individual plans)](https://bit.ly/pluralsight-2024)
 - [DataCamp](https://bit.ly/datacamp2024)
 - [Udacity (Use coupon FEB40 with 40% off your first month)](https://bit.ly/Udacity-40)
