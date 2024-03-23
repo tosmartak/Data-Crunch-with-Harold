@@ -34,9 +34,9 @@
 </div>
 
 ## Recommended platform to level up your skills
-- [Pluralsight (Save up to 50% on individual plans)](https://bit.ly/pluralsight-2024)
+- [Pluralsight (Start a personal free trial and save up to 50% on individual plans)](https://bit.ly/pluralsight24)
 - [DataCamp](https://bit.ly/datacamp2024)
-- [Udacity (Use coupon FEB40 with 40% off your first month)](https://bit.ly/Udacity-40)
+- [Udacity (Learn new skills and prove your potential)](https://bit.ly/udacity24)
 
 ## Topics
 ### Data Cleaning
