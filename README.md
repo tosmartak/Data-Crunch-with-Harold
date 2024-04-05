@@ -33,12 +33,13 @@
   <br>
 </div>
 
-## My recommended platform to level up your skills
-- [Pluralsight (Save up to 50% on individual plans)](https://bit.ly/pluralsight-2024)
+## Recommended platform to level up your skills
+- [Pluralsight (Start a personal free trial and save up to 50% on individual plans)](https://bit.ly/pluralsight24)
 - [DataCamp](https://bit.ly/datacamp2024)
-- [Udacity (Use coupon FEB40 with 40% off your first month)](https://bit.ly/Udacity-40)
+- [Udacity (Learn new skills and prove your potential)](https://bit.ly/udacity24)
 
 ## Topics
+### Data Cleaning
 ### Data Visualization
 - [Enhancing Correlation Matrix Heatmap Plots with P-values in Python](https://github.com/tosmartak/Data-Crunch-with-Harold/blob/main/Data%20Visualization/Enhancing_correlation_matrix_with_pvalues.ipynb)
 ### Inference
