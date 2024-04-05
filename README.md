@@ -40,12 +40,8 @@
 
 ## Topics
 ### Data Cleaning
+- [Addressing Geospatial Outliers in Python: the Simple MAD-Based Approach](https://github.com/tosmartak/Data-Crunch-with-Harold/blob/main/Data%20Cleaning/MAD%20based%20outlier%20detection%20and%20cleaning.ipynb)
 ### Data Visualization
 - [Enhancing Correlation Matrix Heatmap Plots with P-values in Python](https://github.com/tosmartak/Data-Crunch-with-Harold/blob/main/Data%20Visualization/Enhancing_correlation_matrix_with_pvalues.ipynb)
 ### Inference
 - [Enhancing Correlation Matrix Heatmap Plots with P-values in Python](https://github.com/tosmartak/Data-Crunch-with-Harold/blob/main/Data%20Visualization/Enhancing_correlation_matrix_with_pvalues.ipynb)
-### Data Science
-
-### Machine Learning
-
-### Econometric
